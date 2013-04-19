@@ -1,0 +1,20 @@
+[
+{
+  "modid": "LMM",
+  "name": "Let's Mod",
+  "description": "Based on Pahimar's Let's Mod Series.",
+  "version": "0.0.1",
+  "url": "https://github.com/Ultraporing/letsmod-mod",
+  "updateUrl": "",
+  "authorList": [
+    "ultraporing"
+  ],
+  "credits": "Pahimar for his awesome series!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
